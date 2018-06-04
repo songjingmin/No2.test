@@ -2,6 +2,6 @@
 shoplist = ['apple', 'mango', 'carrot', 'banana']
 print("'I hanve', len(shoplist), 'items to purchase'")
 
-print("'These items are:',")
+print("These items are:")
 for item in shoplist:
-	print("item"))
+	print("item")
